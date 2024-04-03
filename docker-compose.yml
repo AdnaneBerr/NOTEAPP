@@ -20,8 +20,8 @@ services:
       #env_file:
       #- ./.env
     environment:
-      POSTGRES_USER: aymn
-      POSTGRES_PASSWORD: aymn
+      POSTGRES_USER: adnan
+      POSTGRES_PASSWORD: adnan
       POSTGRES_DB: noteapp
     ports:
       - "5432:5432"
