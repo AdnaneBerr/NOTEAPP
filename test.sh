@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Welcome to the branch test Your Highness adnane hhhhhhhhhhhhh"
+echo "Welcome to the branch test adnane"
